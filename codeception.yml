@@ -1,0 +1,8 @@
+actor: Tester
+include:
+    - common
+    - api
+paths:
+    log: console/runtime/logs
+settings:
+    colors: true

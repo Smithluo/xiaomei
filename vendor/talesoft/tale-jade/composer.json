@@ -1,0 +1,47 @@
+{
+    "name": "talesoft/tale-jade",
+    "type": "library",
+    "keywords": ["template", "dialect", "html", "views", "presentation", "jade", "html", "php", "phtml"],
+    "description": "A complete and fully-functional implementation of the Jade template language for PHP",
+    "license": "MIT",
+    "homepage": "http://jade.talesoft.io",
+    "authors": [
+        {
+            "name": "Talesoft",
+            "homepage": "http://talesoft.io",
+            "email": "info@talesoft.io"
+        },
+        {
+            "name": "Torben Koehn",
+            "email": "tk@talesoft.io"
+        }
+    ],
+    "support": {
+        "email": "info@talesoft.io",
+        "issues": "https://github.com/talesoft/tale-jade/issues",
+        "source": "https://github.com/talesoft/tale-jade",
+        "docs": "http://jade.talesoft.io/docs"
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5.0",
+        "talesoft/tale-config": "0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tale\\Jade\\": ""
+        },
+        "files": [
+            "functions.php",
+            "Compiler/functions.php"
+        ]
+    },
+    "bin": ["tale-jade"],
+    "suggest": {
+        "erusev/parsedown": "Enables Markdown filtering",
+        "coffeescript/coffeescript": "Enables CoffeeScript filtering",
+        "leafo/lessphp": "Enables LESS filtering",
+        "neemzy/stylus": "Enables Stylus filtering",
+        "leafo/scssphp": "Enables SASS filtering"
+    }
+}
