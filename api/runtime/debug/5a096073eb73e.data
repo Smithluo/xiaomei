@@ -1,0 +1,505 @@
+a:11:{s:6:"config";a:5:{s:10:"phpVersion";s:6:"5.6.28";s:10:"yiiVersion";s:6:"2.0.12";s:11:"application";a:8:{s:3:"yii";s:6:"2.0.12";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:8:"language";s:5:"en-US";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"5.6.28";s:6:"xdebug";b:1;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:53:{s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:63:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-bootstrap";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:59:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-faker";}}s:21:"jacmoe/yii2-tale-jade";a:3:{s:4:"name";s:21:"jacmoe/yii2-tale-jade";s:7:"version";s:7:"1.5.0.0";s:5:"alias";a:1:{s:16:"@jacmoe/talejade";s:66:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/jacmoe/yii2-tale-jade/src";}}s:20:"jacmoe/yii2-gii-jade";a:3:{s:4:"name";s:20:"jacmoe/yii2-gii-jade";s:7:"version";s:7:"0.2.0.0";s:5:"alias";a:1:{s:15:"@jacmoe/giijade";s:61:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/jacmoe/yii2-gii-jade";}}s:21:"deesoft/yii2-adminlte";a:3:{s:4:"name";s:21:"deesoft/yii2-adminlte";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:13:"@dee/adminlte";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/deesoft/yii2-adminlte";}}s:20:"deesoft/yii2-angular";a:4:{s:4:"name";s:20:"deesoft/yii2-angular";s:7:"version";s:7:"1.3.0.0";s:5:"alias";a:1:{s:12:"@dee/angular";s:61:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/deesoft/yii2-angular";}s:9:"bootstrap";s:21:"dee\angular\Bootstrap";}s:23:"kartik-v/yii2-popover-x";a:3:{s:4:"name";s:23:"kartik-v/yii2-popover-x";s:7:"version";s:7:"1.3.3.0";s:5:"alias";a:1:{s:15:"@kartik/popover";s:64:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-popover-x";}}s:30:"kartik-v/yii2-widget-typeahead";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-typeahead";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:17:"@kartik/typeahead";s:71:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-typeahead";}}s:30:"kartik-v/yii2-widget-touchspin";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-touchspin";s:7:"version";s:7:"1.2.1.0";s:5:"alias";a:1:{s:17:"@kartik/touchspin";s:71:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-touchspin";}}s:32:"kartik-v/yii2-widget-switchinput";a:3:{s:4:"name";s:32:"kartik-v/yii2-widget-switchinput";s:7:"version";s:7:"1.3.1.0";s:5:"alias";a:1:{s:19:"@kartik/switchinput";s:73:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-switchinput";}}s:28:"kartik-v/yii2-widget-spinner";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-spinner";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:15:"@kartik/spinner";s:69:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-spinner";}}s:28:"kartik-v/yii2-widget-sidenav";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-sidenav";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:15:"@kartik/sidenav";s:69:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-sidenav";}}s:27:"kartik-v/yii2-widget-rating";a:3:{s:4:"name";s:27:"kartik-v/yii2-widget-rating";s:7:"version";s:7:"1.0.2.0";s:5:"alias";a:1:{s:14:"@kartik/rating";s:68:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-rating";}}s:31:"kartik-v/yii2-widget-rangeinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-rangeinput";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:13:"@kartik/range";s:72:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-rangeinput";}}s:26:"kartik-v/yii2-widget-growl";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-growl";s:7:"version";s:7:"1.1.1.0";s:5:"alias";a:1:{s:13:"@kartik/growl";s:67:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-growl";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:7:"1.0.4.0";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:69:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-depdrop";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:7:"1.4.2.0";s:5:"alias";a:1:{s:12:"@kartik/date";s:72:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-datepicker";}}s:31:"kartik-v/yii2-widget-colorinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-colorinput";s:7:"version";s:7:"1.0.3.0";s:5:"alias";a:1:{s:13:"@kartik/color";s:72:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-colorinput";}}s:26:"kartik-v/yii2-widget-alert";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-alert";s:7:"version";s:7:"1.1.0.0";s:5:"alias";a:1:{s:13:"@kartik/alert";s:67:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-alert";}}s:26:"kartik-v/yii2-widget-affix";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-affix";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:13:"@kartik/affix";s:67:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-affix";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:7:"1.4.8.0";s:5:"alias";a:1:{s:12:"@kartik/form";s:72:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-activeform";}}s:21:"kartik-v/yii2-widgets";a:3:{s:4:"name";s:21:"kartik-v/yii2-widgets";s:7:"version";s:7:"3.4.0.0";s:5:"alias";a:1:{s:15:"@kartik/widgets";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widgets";}}s:26:"moonlandsoft/yii2-phpexcel";a:3:{s:4:"name";s:26:"moonlandsoft/yii2-phpexcel";s:7:"version";s:7:"1.1.0.0";s:5:"alias";a:1:{s:18:"@moonland/phpexcel";s:67:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/moonlandsoft/yii2-phpexcel";}}s:20:"kartik-v/yii2-dialog";a:3:{s:4:"name";s:20:"kartik-v/yii2-dialog";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:14:"@kartik/dialog";s:61:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-dialog";}}s:23:"callmez/yii2-wechat-sdk";a:3:{s:4:"name";s:23:"callmez/yii2-wechat-sdk";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:19:"@callmez/wechat/sdk";s:64:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/callmez/yii2-wechat-sdk";}}s:25:"kartik-v/yii2-field-range";a:3:{s:4:"name";s:25:"kartik-v/yii2-field-range";s:7:"version";s:7:"1.3.1.0";s:5:"alias";a:1:{s:13:"@kartik/field";s:66:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-field-range";}}s:22:"kartik-v/yii2-sortable";a:3:{s:4:"name";s:22:"kartik-v/yii2-sortable";s:7:"version";s:7:"1.2.0.0";s:5:"alias";a:1:{s:16:"@kartik/sortable";s:63:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-sortable";}}s:21:"kartik-v/yii2-helpers";a:3:{s:4:"name";s:21:"kartik-v/yii2-helpers";s:7:"version";s:7:"1.3.6.0";s:5:"alias";a:1:{s:15:"@kartik/helpers";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-helpers";}}s:25:"kartik-v/yii2-detail-view";a:3:{s:4:"name";s:25:"kartik-v/yii2-detail-view";s:7:"version";s:7:"1.7.5.0";s:5:"alias";a:1:{s:14:"@kartik/detail";s:66:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-detail-view";}}s:24:"kartik-v/yii2-checkbox-x";a:3:{s:4:"name";s:24:"kartik-v/yii2-checkbox-x";s:7:"version";s:7:"1.0.3.0";s:5:"alias";a:1:{s:16:"@kartik/checkbox";s:65:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-checkbox-x";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:65:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-swiftmailer";}}s:23:"yiisoft/yii2-httpclient";a:3:{s:4:"name";s:23:"yiisoft/yii2-httpclient";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:15:"@yii/httpclient";s:64:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-httpclient";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"1.8.8.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:66:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-krajee-base";}}s:18:"kartik-v/yii2-grid";a:3:{s:4:"name";s:18:"kartik-v/yii2-grid";s:7:"version";s:7:"3.1.5.0";s:5:"alias";a:1:{s:12:"@kartik/grid";s:59:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-grid";}}s:18:"kartik-v/yii2-mpdf";a:3:{s:4:"name";s:18:"kartik-v/yii2-mpdf";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:12:"@kartik/mpdf";s:59:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-mpdf";}}s:22:"kartik-v/yii2-editable";a:3:{s:4:"name";s:22:"kartik-v/yii2-editable";s:7:"version";s:7:"1.7.6.0";s:5:"alias";a:1:{s:16:"@kartik/editable";s:63:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-editable";}}s:25:"kartik-v/yii2-datecontrol";a:3:{s:4:"name";s:25:"kartik-v/yii2-datecontrol";s:7:"version";s:7:"1.9.6.0";s:5:"alias";a:1:{s:19:"@kartik/datecontrol";s:66:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-datecontrol";}}s:22:"kartik-v/yii2-dynagrid";a:3:{s:4:"name";s:22:"kartik-v/yii2-dynagrid";s:7:"version";s:7:"1.4.5.0";s:5:"alias";a:1:{s:16:"@kartik/dynagrid";s:63:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-dynagrid";}}s:20:"kartik-v/yii2-export";a:3:{s:4:"name";s:20:"kartik-v/yii2-export";s:7:"version";s:7:"1.2.7.0";s:5:"alias";a:1:{s:14:"@kartik/export";s:61:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-export";}}s:20:"yiisoft/yii2-imagine";a:3:{s:4:"name";s:20:"yiisoft/yii2-imagine";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:12:"@yii/imagine";s:61:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-imagine";}}s:30:"mongosoft/yii2-upload-behavior";a:3:{s:4:"name";s:30:"mongosoft/yii2-upload-behavior";s:7:"version";s:7:"0.1.7.0";s:5:"alias";a:1:{s:15:"@mongosoft/file";s:71:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/mongosoft/yii2-upload-behavior";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.9.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:59:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-debug";}}s:24:"rmrevin/yii2-fontawesome";a:3:{s:4:"name";s:24:"rmrevin/yii2-fontawesome";s:7:"version";s:8:"2.17.1.0";s:5:"alias";a:1:{s:24:"@rmrevin/yii/fontawesome";s:65:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/rmrevin/yii2-fontawesome";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:7:"1.4.4.0";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:76:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-datetimepicker";}}s:30:"kartik-v/yii2-widget-fileinput";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-fileinput";s:7:"version";s:7:"1.0.6.0";s:5:"alias";a:1:{s:12:"@kartik/file";s:71:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-fileinput";}}s:31:"kartik-v/yii2-widget-timepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-timepicker";s:7:"version";s:7:"1.0.3.0";s:5:"alias";a:1:{s:12:"@kartik/time";s:72:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-timepicker";}}s:18:"yiisoft/yii2-redis";a:3:{s:4:"name";s:18:"yiisoft/yii2-redis";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:10:"@yii/redis";s:59:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-redis";}}s:24:"kartik-v/yii2-date-range";a:3:{s:4:"name";s:24:"kartik-v/yii2-date-range";s:7:"version";s:7:"1.6.8.0";s:5:"alias";a:1:{s:17:"@kartik/daterange";s:65:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-date-range";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:7:"2.1.0.0";s:5:"alias";a:1:{s:15:"@kartik/select2";s:69:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-select2";}}s:18:"yiisoft/yii2-queue";a:3:{s:4:"name";s:18:"yiisoft/yii2-queue";s:7:"version";s:7:"2.0.0.0";s:5:"alias";a:8:{s:10:"@yii/queue";s:63:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-queue/src";s:15:"@yii/queue/amqp";s:76:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-queue/src/drivers/amqp";s:20:"@yii/queue/beanstalk";s:81:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-queue/src/drivers/beanstalk";s:13:"@yii/queue/db";s:74:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-queue/src/drivers/db";s:15:"@yii/queue/file";s:76:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-queue/src/drivers/file";s:18:"@yii/queue/gearman";s:79:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-queue/src/drivers/gearman";s:16:"@yii/queue/redis";s:77:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-queue/src/drivers/redis";s:15:"@yii/queue/sync";s:76:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-queue/src/drivers/sync";}}s:24:"kartik-v/yii2-dropdown-x";a:3:{s:4:"name";s:24:"kartik-v/yii2-dropdown-x";s:7:"version";s:7:"1.2.0.0";s:5:"alias";a:1:{s:16:"@kartik/dropdown";s:65:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-dropdown-x";}}s:19:"kartik-v/yii2-nav-x";a:3:{s:4:"name";s:19:"kartik-v/yii2-nav-x";s:7:"version";s:7:"1.2.1.0";s:5:"alias";a:1:{s:11:"@kartik/nav";s:60:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-nav-x";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:9:{s:4:"host";s:18:"api.xiaomei360.com";s:10:"connection";s:10:"keep-alive";s:6:"accept";s:3:"*/*";s:13:"authorization";s:50:"Basic Qlo2QVU3Mml1LWNGSGxZZURMYVBadmx6QXBxeTZENnc6";s:10:"user-agent";s:108:"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36";s:7:"referer";s:69:"http://apizza.cc/console/project/ef3cd4fbb9b83d6995e89eabd0387291/dev";s:15:"accept-encoding";s:13:"gzip, deflate";s:15:"accept-language";s:14:"zh-CN,zh;q=0.9";s:6:"cookie";s:136:"Hm_lvt_3984549160280a2786b016453d021525=1510383121,1510389260,1510393236,1510535648; Hm_lpvt_3984549160280a2786b016453d021525=1510560884";}s:15:"responseHeaders";a:2:{s:12:"X-Powered-By";s:10:"PHP/5.6.28";s:12:"Content-Type";s:31:"application/json; charset=UTF-8";}s:5:"route";s:13:"v1/brand/view";s:6:"action";s:56:"api\modules\v1\controllers\BrandController::actionView()";s:12:"actionParams";a:1:{i:0;s:1:"1";}s:11:"requestBody";a:0:{}s:6:"SERVER";a:52:{s:16:"REDIRECT_MIBDIRS";s:27:"D:/mp/xampp/php/extras/mibs";s:19:"REDIRECT_MYSQL_HOME";s:16:"\xampp\mysql\bin";s:21:"REDIRECT_OPENSSL_CONF";s:34:"D:/mp/xampp/apache/bin/openssl.cnf";s:29:"REDIRECT_PHP_PEAR_SYSCONF_DIR";s:10:"\xampp\php";s:14:"REDIRECT_PHPRC";s:10:"\xampp\php";s:12:"REDIRECT_TMP";s:10:"\xampp\tmp";s:15:"REDIRECT_STATUS";s:3:"200";s:7:"MIBDIRS";s:27:"D:/mp/xampp/php/extras/mibs";s:10:"MYSQL_HOME";s:16:"\xampp\mysql\bin";s:12:"OPENSSL_CONF";s:34:"D:/mp/xampp/apache/bin/openssl.cnf";s:20:"PHP_PEAR_SYSCONF_DIR";s:10:"\xampp\php";s:5:"PHPRC";s:10:"\xampp\php";s:3:"TMP";s:10:"\xampp\tmp";s:9:"HTTP_HOST";s:18:"api.xiaomei360.com";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:11:"HTTP_ACCEPT";s:3:"*/*";s:15:"HTTP_USER_AGENT";s:108:"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36";s:12:"HTTP_REFERER";s:69:"http://apizza.cc/console/project/ef3cd4fbb9b83d6995e89eabd0387291/dev";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:20:"HTTP_ACCEPT_LANGUAGE";s:14:"zh-CN,zh;q=0.9";s:11:"HTTP_COOKIE";s:136:"Hm_lvt_3984549160280a2786b016453d021525=1510383121,1510389260,1510393236,1510535648; Hm_lpvt_3984549160280a2786b016453d021525=1510560884";s:4:"PATH";s:240:"C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;D:\mp\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Users\Administrator\AppData\Roaming\Composer\vendor\bin";s:10:"SystemRoot";s:10:"C:\Windows";s:7:"COMSPEC";s:27:"C:\Windows\system32\cmd.exe";s:7:"PATHEXT";s:53:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC";s:6:"WINDIR";s:10:"C:\Windows";s:16:"SERVER_SIGNATURE";s:104:"<address>Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.28 Server at api.xiaomei360.com Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:47:"Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.28";s:11:"SERVER_NAME";s:18:"api.xiaomei360.com";s:11:"SERVER_ADDR";s:9:"127.0.0.1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:9:"127.0.0.1";s:13:"DOCUMENT_ROOT";s:41:"D:/mp/xampp/htdocs/xiaomei360.com/api/web";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:41:"D:/mp/xampp/htdocs/xiaomei360.com/api/web";s:12:"SERVER_ADMIN";s:20:"postmaster@localhost";s:15:"SCRIPT_FILENAME";s:51:"D:/mp/xampp/htdocs/xiaomei360.com/api/web/index.php";s:11:"REMOTE_PORT";s:5:"65518";s:12:"REDIRECT_URL";s:14:"/v1/brand/view";s:21:"REDIRECT_QUERY_STRING";s:64:"r=/v1/brand/view&suppress_response_code=1&brand_id=95&brand_id=1";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:64:"r=/v1/brand/view&suppress_response_code=1&brand_id=95&brand_id=1";s:11:"REQUEST_URI";s:62:"/v1/brand/view?suppress_response_code=1&brand_id=95&brand_id=1";s:11:"SCRIPT_NAME";s:10:"/index.php";s:8:"PHP_SELF";s:10:"/index.php";s:13:"PHP_AUTH_USER";s:32:"BZ6AU72iu-cFHlYeDLaPZvlzApqy6D6w";s:11:"PHP_AUTH_PW";s:0:"";s:18:"REQUEST_TIME_FLOAT";d:1510563955.882;s:12:"REQUEST_TIME";i:1510563955;}s:3:"GET";a:3:{s:1:"r";s:14:"/v1/brand/view";s:22:"suppress_response_code";s:1:"1";s:8:"brand_id";s:1:"1";}s:4:"POST";a:0:{}s:6:"COOKIE";a:2:{s:39:"Hm_lvt_3984549160280a2786b016453d021525";s:43:"1510383121,1510389260,1510393236,1510535648";s:40:"Hm_lpvt_3984549160280a2786b016453d021525";s:10:"1510560884";}s:5:"FILES";a:0:{}s:7:"SESSION";a:0:{}}s:3:"log";a:1:{s:8:"messages";a:31:{i:0;a:6:{i:0;s:49:"Bootstrap with dee\angular\Bootstrap::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1510563955.9144111;i:4;a:0:{}i:5;i:2531752;}i:1;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1510563955.9194109;i:4;a:0:{}i:5;i:2665424;}i:2;a:6:{i:0;s:49:"Bootstrap with yii\queue\redis\Queue::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1510563955.940412;i:4;a:0:{}i:5;i:2932592;}i:3;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1510563955.940412;i:4;a:0:{}i:5;i:2933424;}i:4;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1510563955.940412;i:4;a:0:{}i:5;i:2935216;}i:5;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1510563955.963414;i:4;a:0:{}i:5;i:3411280;}i:6;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1510563955.9734139;i:4;a:0:{}i:5;i:4428280;}i:7;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1510563955.9744141;i:4;a:0:{}i:5;i:4469880;}i:26;a:6:{i:0;s:32:"Route requested: 'v1/brand/view'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1510563955.982415;i:4;a:0:{}i:5;i:4843240;}i:27;a:6:{i:0;s:18:"Loading module: v1";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1510563955.982415;i:4;a:0:{}i:5;i:4846688;}i:28;a:6:{i:0;s:27:"Route to run: v1/brand/view";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1510563955.992415;i:4;a:0:{}i:5;i:5395424;}i:29;a:6:{i:0;s:39:"Rate limit skipped: user not logged in.";i:1;i:4;i:2;s:37:"yii\filters\RateLimiter::beforeAction";i:3;d:1510563955.9964161;i:4;a:0:{}i:5;i:5556000;}i:30;a:6:{i:0;s:72:"Running action: api\modules\v1\controllers\BrandController::actionView()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1510563955.997416;i:4;a:0:{}i:5;i:5554216;}i:31;a:6:{i:0;s:58:"Opening DB connection: mysql:host=localhost;dbname=xiaomei";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1510563956.017417;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7381544;}i:34;a:6:{i:0;s:79:"SELECT * FROM `o_users` WHERE `access_token`='BZ6AU72iu-cFHlYeDLaPZvlzApqy6D6w'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.019417;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7393320;}i:37;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `o_users`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0224171;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7463400;}i:40;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_users' AND kcu.table_name = 'o_users'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.036418;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7536728;}i:43;a:6:{i:0;s:58:"User '5109' logged in from 127.0.0.1. Session not enabled.";i:1;i:4;i:2;s:19:"yii\web\User::login";i:3;d:1510563956.039418;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:67;s:8:"function";s:5:"login";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}i:5;i:7537768;}i:44;a:6:{i:0;s:33:"curDateTime = 2017-11-13 17:05:56";i:1;i:2;i:2;s:29:"common\models\Brand::getEvent";i:3;d:1510563956.048419;i:4;a:3:{i:0;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Brand.php";s:4:"line";i:406;s:8:"function";s:7:"warning";s:5:"class";s:11:"yii\BaseYii";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8042792;}i:45;a:6:{i:0;s:540:"SELECT `o_brand`.* FROM `o_brand` LEFT JOIN `o_touch_brand` ON `o_brand`.`brand_id` = `o_touch_brand`.`brand_id` LEFT JOIN `o_event` ON (`o_brand`.`event_id` = `o_event`.`event_id`) AND (((`start_time` <= '2017-11-13 17:05:56') AND (`end_time` >= '2017-11-13 17:05:56')) AND (`is_active`=1)) LEFT JOIN `o_full_cut_rule` ON (`o_event`.`event_id` = `o_full_cut_rule`.`event_id`) AND (`status`=1) LEFT JOIN `o_shipping` ON `o_brand`.`shipping_id` = `o_shipping`.`shipping_id` WHERE (`is_show`=1) AND (`o_brand`.`brand_id`='1') ORDER BY `above`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.054419;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8276120;}i:48;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `o_brand`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0564189;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8301040;}i:51;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_brand' AND kcu.table_name = 'o_brand'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0664201;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8331048;}i:54;a:6:{i:0;s:33:"curDateTime = 2017-11-13 17:05:56";i:1;i:2;i:2;s:29:"common\models\Brand::getEvent";i:3;d:1510563956.0684199;i:4;a:3:{i:0;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Brand.php";s:4:"line";i:406;s:8:"function";s:7:"warning";s:5:"class";s:11:"yii\BaseYii";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8336064;}i:55;a:6:{i:0;s:48:"SELECT * FROM `o_touch_brand` WHERE `brand_id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0694201;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8348792;}i:58;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `o_touch_brand`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.07042;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8370752;}i:61;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_touch_brand' AND kcu.table_name = 'o_touch_brand'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.07742;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8384272;}i:64;a:6:{i:0;s:154:"SELECT * FROM `o_event` WHERE (`event_id`=0) AND (((`start_time` <= '2017-11-13 17:05:56') AND (`end_time` >= '2017-11-13 17:05:56')) AND (`is_active`=1))";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0794201;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8386304;}i:67;a:6:{i:0;s:48:"SELECT * FROM `o_shipping` WHERE `shipping_id`=9";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0814209;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8393352;}i:70;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `o_shipping`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0824211;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8407824;}i:73;a:6:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_shipping' AND kcu.table_name = 'o_shipping'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.090421;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8425696;}i:76;a:6:{i:0;s:279:"SELECT `giftPkg`.* FROM `o_gift_pkg` `giftPkg` LEFT JOIN `o_gift_pkg_goods` `giftPkgGoods` ON `giftPkg`.`id` = `giftPkgGoods`.`gift_pkg_id` LEFT JOIN `o_goods` `goods` ON `giftPkgGoods`.`goods_id` = `goods`.`goods_id` WHERE (`giftPkg`.`is_on_sale`=1) AND (`goods`.`brand_id`='1')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.1104219;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:118;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9162128;}}}s:9:"profiling";a:3:{s:6:"memory";i:9317248;s:4:"time";d:0.22801303863525391;s:8:"messages";a:30:{i:32;a:6:{i:0;s:58:"Opening DB connection: mysql:host=localhost;dbname=xiaomei";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1510563956.017417;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7384600;}i:33;a:6:{i:0;s:58:"Opening DB connection: mysql:host=localhost;dbname=xiaomei";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1510563956.019417;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7394824;}i:35;a:6:{i:0;s:79:"SELECT * FROM `o_users` WHERE `access_token`='BZ6AU72iu-cFHlYeDLaPZvlzApqy6D6w'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.019417;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7396464;}i:36;a:6:{i:0;s:79:"SELECT * FROM `o_users` WHERE `access_token`='BZ6AU72iu-cFHlYeDLaPZvlzApqy6D6w'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.020417;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7428360;}i:38;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `o_users`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0224171;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7466160;}i:39;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `o_users`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0284171;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7545640;}i:41;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_users' AND kcu.table_name = 'o_users'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0374179;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7540528;}i:42;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_users' AND kcu.table_name = 'o_users'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0374179;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7543840;}i:46;a:6:{i:0;s:540:"SELECT `o_brand`.* FROM `o_brand` LEFT JOIN `o_touch_brand` ON `o_brand`.`brand_id` = `o_touch_brand`.`brand_id` LEFT JOIN `o_event` ON (`o_brand`.`event_id` = `o_event`.`event_id`) AND (((`start_time` <= '2017-11-13 17:05:56') AND (`end_time` >= '2017-11-13 17:05:56')) AND (`is_active`=1)) LEFT JOIN `o_full_cut_rule` ON (`o_event`.`event_id` = `o_full_cut_rule`.`event_id`) AND (`status`=1) LEFT JOIN `o_shipping` ON `o_brand`.`shipping_id` = `o_shipping`.`shipping_id` WHERE (`is_show`=1) AND (`o_brand`.`brand_id`='1') ORDER BY `above`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.054419;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8278480;}i:47;a:6:{i:0;s:540:"SELECT `o_brand`.* FROM `o_brand` LEFT JOIN `o_touch_brand` ON `o_brand`.`brand_id` = `o_touch_brand`.`brand_id` LEFT JOIN `o_event` ON (`o_brand`.`event_id` = `o_event`.`event_id`) AND (((`start_time` <= '2017-11-13 17:05:56') AND (`end_time` >= '2017-11-13 17:05:56')) AND (`is_active`=1)) LEFT JOIN `o_full_cut_rule` ON (`o_event`.`event_id` = `o_full_cut_rule`.`event_id`) AND (`status`=1) LEFT JOIN `o_shipping` ON `o_brand`.`shipping_id` = `o_shipping`.`shipping_id` WHERE (`is_show`=1) AND (`o_brand`.`brand_id`='1') ORDER BY `above`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.055419;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8286192;}i:49;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `o_brand`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0564189;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8303056;}i:50;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `o_brand`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0624189;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8341248;}i:52;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_brand' AND kcu.table_name = 'o_brand'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0664201;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8334088;}i:53;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_brand' AND kcu.table_name = 'o_brand'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.06742;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8336640;}i:56;a:6:{i:0;s:48:"SELECT * FROM `o_touch_brand` WHERE `brand_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0694201;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8350792;}i:57;a:6:{i:0;s:48:"SELECT * FROM `o_touch_brand` WHERE `brand_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0694201;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8356096;}i:59;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `o_touch_brand`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.07042;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8372768;}i:60;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `o_touch_brand`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0764201;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8381304;}i:62;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_touch_brand' AND kcu.table_name = 'o_touch_brand'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.07742;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8387320;}i:63;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_touch_brand' AND kcu.table_name = 'o_touch_brand'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0784199;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8389872;}i:65;a:6:{i:0;s:154:"SELECT * FROM `o_event` WHERE (`event_id`=0) AND (((`start_time` <= '2017-11-13 17:05:56') AND (`end_time` >= '2017-11-13 17:05:56')) AND (`is_active`=1))";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.08042;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8388392;}i:66;a:6:{i:0;s:154:"SELECT * FROM `o_event` WHERE (`event_id`=0) AND (((`start_time` <= '2017-11-13 17:05:56') AND (`end_time` >= '2017-11-13 17:05:56')) AND (`is_active`=1))";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.08042;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8391752;}i:68;a:6:{i:0;s:48:"SELECT * FROM `o_shipping` WHERE `shipping_id`=9";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0814209;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8395352;}i:69;a:6:{i:0;s:48:"SELECT * FROM `o_shipping` WHERE `shipping_id`=9";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0814209;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8399696;}i:71;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `o_shipping`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0824211;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8409832;}i:72;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `o_shipping`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0874209;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8426584;}i:74;a:6:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_shipping' AND kcu.table_name = 'o_shipping'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.090421;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8428752;}i:75;a:6:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_shipping' AND kcu.table_name = 'o_shipping'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0914209;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8431304;}i:77;a:6:{i:0;s:279:"SELECT `giftPkg`.* FROM `o_gift_pkg` `giftPkg` LEFT JOIN `o_gift_pkg_goods` `giftPkgGoods` ON `giftPkg`.`id` = `giftPkgGoods`.`gift_pkg_id` LEFT JOIN `o_goods` `goods` ON `giftPkgGoods`.`goods_id` = `goods`.`goods_id` WHERE (`giftPkg`.`is_on_sale`=1) AND (`goods`.`brand_id`='1')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.1104219;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:118;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9163720;}i:78;a:6:{i:0;s:279:"SELECT `giftPkg`.* FROM `o_gift_pkg` `giftPkg` LEFT JOIN `o_gift_pkg_goods` `giftPkgGoods` ON `giftPkg`.`id` = `giftPkgGoods`.`gift_pkg_id` LEFT JOIN `o_goods` `goods` ON `giftPkgGoods`.`goods_id` = `goods`.`goods_id` WHERE (`giftPkg`.`is_on_sale`=1) AND (`goods`.`brand_id`='1')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.1114221;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:118;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9165936;}}}s:2:"db";a:1:{s:8:"messages";a:28:{i:35;a:6:{i:0;s:79:"SELECT * FROM `o_users` WHERE `access_token`='BZ6AU72iu-cFHlYeDLaPZvlzApqy6D6w'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.019417;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7396464;}i:36;a:6:{i:0;s:79:"SELECT * FROM `o_users` WHERE `access_token`='BZ6AU72iu-cFHlYeDLaPZvlzApqy6D6w'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.020417;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7428360;}i:38;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `o_users`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0224171;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7466160;}i:39;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `o_users`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0284171;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7545640;}i:41;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_users' AND kcu.table_name = 'o_users'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0374179;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7540528;}i:42;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_users' AND kcu.table_name = 'o_users'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0374179;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:66;s:8:"function";s:25:"findIdentityByAccessToken";s:5:"class";s:19:"common\models\Users";s:4:"type";s:2:"::";}}i:5;i:7543840;}i:46;a:6:{i:0;s:540:"SELECT `o_brand`.* FROM `o_brand` LEFT JOIN `o_touch_brand` ON `o_brand`.`brand_id` = `o_touch_brand`.`brand_id` LEFT JOIN `o_event` ON (`o_brand`.`event_id` = `o_event`.`event_id`) AND (((`start_time` <= '2017-11-13 17:05:56') AND (`end_time` >= '2017-11-13 17:05:56')) AND (`is_active`=1)) LEFT JOIN `o_full_cut_rule` ON (`o_event`.`event_id` = `o_full_cut_rule`.`event_id`) AND (`status`=1) LEFT JOIN `o_shipping` ON `o_brand`.`shipping_id` = `o_shipping`.`shipping_id` WHERE (`is_show`=1) AND (`o_brand`.`brand_id`='1') ORDER BY `above`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.054419;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8278480;}i:47;a:6:{i:0;s:540:"SELECT `o_brand`.* FROM `o_brand` LEFT JOIN `o_touch_brand` ON `o_brand`.`brand_id` = `o_touch_brand`.`brand_id` LEFT JOIN `o_event` ON (`o_brand`.`event_id` = `o_event`.`event_id`) AND (((`start_time` <= '2017-11-13 17:05:56') AND (`end_time` >= '2017-11-13 17:05:56')) AND (`is_active`=1)) LEFT JOIN `o_full_cut_rule` ON (`o_event`.`event_id` = `o_full_cut_rule`.`event_id`) AND (`status`=1) LEFT JOIN `o_shipping` ON `o_brand`.`shipping_id` = `o_shipping`.`shipping_id` WHERE (`is_show`=1) AND (`o_brand`.`brand_id`='1') ORDER BY `above`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.055419;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8286192;}i:49;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `o_brand`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0564189;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8303056;}i:50;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `o_brand`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0624189;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8341248;}i:52;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_brand' AND kcu.table_name = 'o_brand'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0664201;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8334088;}i:53;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_brand' AND kcu.table_name = 'o_brand'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.06742;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8336640;}i:56;a:6:{i:0;s:48:"SELECT * FROM `o_touch_brand` WHERE `brand_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0694201;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8350792;}i:57;a:6:{i:0;s:48:"SELECT * FROM `o_touch_brand` WHERE `brand_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0694201;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8356096;}i:59;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `o_touch_brand`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.07042;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8372768;}i:60;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `o_touch_brand`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0764201;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8381304;}i:62;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_touch_brand' AND kcu.table_name = 'o_touch_brand'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.07742;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8387320;}i:63;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_touch_brand' AND kcu.table_name = 'o_touch_brand'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0784199;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8389872;}i:65;a:6:{i:0;s:154:"SELECT * FROM `o_event` WHERE (`event_id`=0) AND (((`start_time` <= '2017-11-13 17:05:56') AND (`end_time` >= '2017-11-13 17:05:56')) AND (`is_active`=1))";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.08042;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8388392;}i:66;a:6:{i:0;s:154:"SELECT * FROM `o_event` WHERE (`event_id`=0) AND (((`start_time` <= '2017-11-13 17:05:56') AND (`end_time` >= '2017-11-13 17:05:56')) AND (`is_active`=1))";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.08042;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8391752;}i:68;a:6:{i:0;s:48:"SELECT * FROM `o_shipping` WHERE `shipping_id`=9";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0814209;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8395352;}i:69;a:6:{i:0;s:48:"SELECT * FROM `o_shipping` WHERE `shipping_id`=9";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0814209;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8399696;}i:71;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `o_shipping`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0824211;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8409832;}i:72;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `o_shipping`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0874209;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8426584;}i:74;a:6:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_shipping' AND kcu.table_name = 'o_shipping'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.090421;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8428752;}i:75;a:6:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_shipping' AND kcu.table_name = 'o_shipping'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.0914209;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\BrandQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:80;s:8:"function";s:3:"one";s:5:"class";s:24:"common\models\BrandQuery";s:4:"type";s:2:"->";}}i:5;i:8431304;}i:77;a:6:{i:0;s:279:"SELECT `giftPkg`.* FROM `o_gift_pkg` `giftPkg` LEFT JOIN `o_gift_pkg_goods` `giftPkgGoods` ON `giftPkg`.`id` = `giftPkgGoods`.`gift_pkg_id` LEFT JOIN `o_goods` `goods` ON `giftPkgGoods`.`goods_id` = `goods`.`goods_id` WHERE (`giftPkg`.`is_on_sale`=1) AND (`goods`.`brand_id`='1')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.1104219;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:118;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9163720;}i:78;a:6:{i:0;s:279:"SELECT `giftPkg`.* FROM `o_gift_pkg` `giftPkg` LEFT JOIN `o_gift_pkg_goods` `giftPkgGoods` ON `giftPkg`.`id` = `giftPkgGoods`.`gift_pkg_id` LEFT JOIN `o_goods` `goods` ON `giftPkgGoods`.`goods_id` = `goods`.`goods_id` WHERE (`giftPkg`.`is_on_sale`=1) AND (`goods`.`brand_id`='1')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510563956.1114221;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\BrandController.php";s:4:"line";i:118;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9165936;}}}s:6:"assets";a:0:{}s:4:"mail";a:0:{}s:8:"timeline";a:3:{s:5:"start";d:1510563955.8954101;s:3:"end";d:1510563956.125423;s:6:"memory";i:9362240;}s:4:"user";a:4:{s:8:"identity";a:65:{s:7:"user_id";s:4:"5109";s:5:"email";s:11:"2828@qq.com";s:9:"user_name";s:16:"XM_596779fd629a7";s:8:"password";s:32:"4297f44b13955235245b2497399d7a93";s:8:"question";s:0:"";s:6:"answer";s:0:"";s:3:"sex";i:0;s:8:"birthday";s:10:"0000-00-00";s:10:"user_money";s:4:"0.00";s:12:"frozen_money";s:4:"0.00";s:10:"pay_points";s:1:"0";s:11:"rank_points";s:1:"0";s:10:"address_id";s:4:"1623";s:7:"zone_id";N;s:8:"reg_time";s:10:"1499924861";s:10:"last_login";s:10:"1508803901";s:9:"last_time";s:19:"2017-11-11 17:59:17";s:7:"last_ip";s:15:"101.106.121.163";s:11:"visit_count";i:2545;s:9:"user_rank";i:1;s:10:"is_special";i:0;s:7:"ec_salt";N;s:4:"salt";s:1:"0";s:9:"parent_id";i:0;s:4:"flag";i:0;s:5:"alias";s:0:"";s:3:"msn";s:0:"";s:2:"qq";s:10:"1426324858";s:12:"office_phone";s:11:"13410269874";s:10:"home_phone";s:0:"";s:12:"mobile_phone";s:11:"15889325915";s:12:"company_name";s:6:"小美";s:12:"is_validated";i:0;s:11:"credit_line";s:4:"0.00";s:15:"passwd_question";N;s:13:"passwd_answer";N;s:10:"headimgurl";s:130:"http://wx.qlogo.cn/mmopen/lrNqxibSnr5qp6ojDOaFpxbTw6GIiaxoQxicIuv26cRmG78vonJrxJCEcejRgic7BIaAF2Bh2GnQGsicjr8x31fX0iccOSwPmJQnDU/0";s:6:"openid";s:28:"oP0phwqQeN1CkPAEffV5Gc4fnWDw";s:10:"qq_open_id";s:0:"";s:7:"aite_id";N;s:7:"unionid";s:28:"obKWbwV7KUV0NU7uR7qHcwlifhcw";s:12:"wx_pc_openid";s:0:"";s:13:"licence_image";s:0:"";s:16:"servicer_user_id";s:1:"0";s:17:"servicer_super_id";s:1:"0";s:13:"brand_id_list";s:1:"0";s:8:"auth_key";s:0:"";s:12:"access_token";s:32:"BZ6AU72iu-cFHlYeDLaPZvlzApqy6D6w";s:16:"servicer_info_id";s:1:"0";s:12:"bank_info_id";i:0;s:14:"brand_admin_id";i:0;s:8:"nickname";s:9:"康宣鹏";s:10:"is_checked";i:2;s:12:"checked_note";s:8660:"未知用户(可能是批量修改的脚本修改了状态)(2017-11-11 17:59:17):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-11 17:57:44):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-11 17:57:43):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-11 17:46:25):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-10 14:01:17):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-09 15:41:00):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-09 15:40:09):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-09 15:37:23):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-09 10:21:51):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-09 10:21:27):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-09 10:20:58):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-09 10:20:46):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-09 10:20:30):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-09 10:19:07):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-09 10:09:56):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-09 10:09:27):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-09 09:50:56):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-09 09:50:41):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-09 09:42:10):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-09 09:37:42):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-24 16:11:36):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-20 17:26:49):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-14 15:24:39):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-12 10:14:34):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-09 14:36:39):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-09 14:32:02):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-09 11:18:32):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-09 11:17:45):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-02 19:24:05):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-29 21:57:30):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-29 21:39:31):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-27 09:42:21):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-26 15:28:31):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-26 14:39:52):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-26 14:39:52):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-26 13:58:29):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-26 13:55:05):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-26 11:51:41):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-25 19:37:45):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-25 18:25:22):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-25 15:51:53):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-25 15:26:17):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-25 15:05:47):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-25 14:36:23):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-25 11:18:46):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-18 09:23:03):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-11 11:32:16):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-09 21:19:49):
+
+XM_596779fd629a7(15889325915)(2017-09-09 21:17:36):
+
+XM_596779fd629a7(15889325915)(2017-09-06 09:24:27):
+
+XM_596779fd629a7(15889325915)(2017-09-01 15:17:02):
+
+XM_596779fd629a7(15889325915)(2017-09-01 15:16:59):
+
+XM_596779fd629a7(15889325915)(2017-09-01 11:13:00):
+
+XM_596779fd629a7(15889325915)(2017-09-01 11:12:53):
+
+XM_596779fd629a7(15889325915)(2017-08-31 17:31:47):
+
+XM_596779fd629a7(15889325915)(2017-08-31 17:30:18):
+
+XM_596779fd629a7(15889325915)(2017-08-31 17:30:01):
+
+XM_596779fd629a7(15889325915)(2017-08-31 17:29:53):
+
+XM_596779fd629a7(15889325915)(2017-08-31 14:36:50):
+
+XM_596779fd629a7(15889325915)(2017-08-31 11:59:58):
+
+XM_596779fd629a7(15889325915)(2017-08-31 11:47:18):
+
+XM_596779fd629a7(15889325915)(2017-08-31 09:50:27):
+
+XM_596779fd629a7(15889325915)(2017-08-31 09:49:11):
+
+XM_596779fd629a7(15889325915)(2017-08-31 09:46:13):
+
+XM_596779fd629a7(15889325915)(2017-08-31 09:39:05):
+
+XM_596779fd629a7(15889325915)(2017-08-29 09:43:20):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-29 09:40:18):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-29 09:30:40):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-29 09:10:00):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-28 18:14:45):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-28 18:12:58):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-28 17:39:40):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-28 17:34:08):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-28 16:50:11):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-28 09:57:03):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-28 09:56:59):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-28 09:56:31):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-28 09:55:50):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-28 09:55:47):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-28 09:55:27):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-28 09:55:22):
+
+XM_596779fd629a7(15889325915)(2017-08-27 10:32:48):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-26 20:30:28):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-26 20:30:04):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-22 14:44:37):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-22 14:44:06):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-21 15:13:35):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-21 09:29:03):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-20 21:11:35):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-20 20:31:29):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-20 20:03:52):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-20 19:38:34):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-19 22:17:51):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-19 13:41:17):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-18 19:03:13):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-18 18:21:37):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-17 17:17:46):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-17 17:14:08):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-16 09:09:49):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-15 18:20:00):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-01 16:32:28):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-01 10:03:08):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-31 15:57:44):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-31 15:42:02):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-31 15:02:54):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-30 12:10:53):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-26 19:02:10):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-26 19:01:20):
+
+XM_596779fd629a7(15889325915)(2017-07-25 19:00:40):
+
+XM_596779fd629a7(15889325915)(2017-07-25 19:00:39):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-24 17:33:32):
+
+黄莉茗(15676147715)(2017-07-18 17:41:43):小美员工
+";s:9:"user_type";i:1;s:13:"shopfront_pic";s:49:"data/attached/member_apply/5109_shopfront_pic.png";s:15:"biz_license_pic";s:51:"data/attached/member_apply/5109_biz_license_pic.png";s:7:"channel";s:1:"6";s:8:"province";i:2136;s:4:"city";i:2163;s:13:"token_expired";s:19:"2017-10-24 16:11:36";s:11:"int_balance";i:0;s:14:"divide_percent";i:0;s:15:"user_check_note";s:1:"0";s:12:"recommend_id";s:1:"0";}s:10:"attributes";a:65:{i:0;s:7:"user_id";i:1;s:5:"email";i:2;s:9:"user_name";i:3;s:8:"password";i:4;s:8:"question";i:5;s:6:"answer";i:6;s:3:"sex";i:7;s:8:"birthday";i:8;s:10:"user_money";i:9;s:12:"frozen_money";i:10;s:10:"pay_points";i:11;s:11:"rank_points";i:12;s:10:"address_id";i:13;s:7:"zone_id";i:14;s:8:"reg_time";i:15;s:10:"last_login";i:16;s:9:"last_time";i:17;s:7:"last_ip";i:18;s:11:"visit_count";i:19;s:9:"user_rank";i:20;s:10:"is_special";i:21;s:7:"ec_salt";i:22;s:4:"salt";i:23;s:9:"parent_id";i:24;s:4:"flag";i:25;s:5:"alias";i:26;s:3:"msn";i:27;s:2:"qq";i:28;s:12:"office_phone";i:29;s:10:"home_phone";i:30;s:12:"mobile_phone";i:31;s:12:"company_name";i:32;s:12:"is_validated";i:33;s:11:"credit_line";i:34;s:15:"passwd_question";i:35;s:13:"passwd_answer";i:36;s:10:"headimgurl";i:37;s:6:"openid";i:38;s:10:"qq_open_id";i:39;s:7:"aite_id";i:40;s:7:"unionid";i:41;s:12:"wx_pc_openid";i:42;s:13:"licence_image";i:43;s:16:"servicer_user_id";i:44;s:17:"servicer_super_id";i:45;s:13:"brand_id_list";i:46;s:8:"auth_key";i:47;s:12:"access_token";i:48;s:16:"servicer_info_id";i:49;s:12:"bank_info_id";i:50;s:14:"brand_admin_id";i:51;s:8:"nickname";i:52;s:10:"is_checked";i:53;s:12:"checked_note";i:54;s:9:"user_type";i:55;s:13:"shopfront_pic";i:56;s:15:"biz_license_pic";i:57;s:7:"channel";i:58;s:8:"province";i:59;s:4:"city";i:60;s:13:"token_expired";i:61;s:11:"int_balance";i:62;s:14:"divide_percent";i:63;s:15:"user_check_note";i:64;s:12:"recommend_id";}s:13:"rolesProvider";N;s:19:"permissionsProvider";N;}s:6:"router";a:1:{s:8:"messages";a:18:{i:8;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510563955.9804151;i:4;a:0:{}i:5;i:4824280;}i:9;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510563955.9804151;i:4;a:0:{}i:5;i:4825424;}i:10;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510563955.9804151;i:4;a:0:{}i:5;i:4826576;}i:11;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510563955.9804151;i:4;a:0:{}i:5;i:4827688;}i:12;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510563955.9804151;i:4;a:0:{}i:5;i:4828840;}i:13;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510563955.9804151;i:4;a:0:{}i:5;i:4830064;}i:14;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510563955.9804151;i:4;a:0:{}i:5;i:4831208;}i:15;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510563955.981415;i:4;a:0:{}i:5;i:4832352;}i:16;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510563955.981415;i:4;a:0:{}i:5;i:4833496;}i:17;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510563955.981415;i:4;a:0:{}i:5;i:4834704;}i:18;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510563955.981415;i:4;a:0:{}i:5;i:4835848;}i:19;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510563955.981415;i:4;a:0:{}i:5;i:4836992;}i:20;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510563955.981415;i:4;a:0:{}i:5;i:4838136;}i:21;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510563955.981415;i:4;a:0:{}i:5;i:4839280;}i:22;a:6:{i:0;a:3:{s:4:"rule";s:20:"POST v1/brand/detail";s:5:"match";b:0;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1510563955.981415;i:4;a:0:{}i:5;i:4841960;}i:23;a:6:{i:0;s:43:"Request parsed with URL rule: v1/brand/view";i:1;i:8;i:2;s:29:"yii\web\UrlRule::parseRequest";i:3;d:1510563955.981415;i:4;a:0:{}i:5;i:4843968;}i:24;a:6:{i:0;a:3:{s:4:"rule";s:17:"GET v1/brand/view";s:5:"match";b:1;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1510563955.981415;i:4;a:0:{}i:5;i:4844152;}i:25;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:1;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510563955.982415;i:4;a:0:{}i:5;i:4843856;}}}s:7:"summary";a:9:{s:3:"tag";s:13:"5a096073eb73e";s:3:"url";s:87:"http://api.xiaomei360.com/v1/brand/view?suppress_response_code=1&brand_id=95&brand_id=1";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:9:"127.0.0.1";s:4:"time";d:1510563955.882;s:10:"statusCode";i:200;s:8:"sqlCount";i:14;s:9:"mailCount";i:0;}}

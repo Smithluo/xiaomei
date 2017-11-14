@@ -1,0 +1,557 @@
+a:11:{s:6:"config";a:5:{s:10:"phpVersion";s:6:"5.6.28";s:10:"yiiVersion";s:6:"2.0.12";s:11:"application";a:8:{s:3:"yii";s:6:"2.0.12";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:8:"language";s:5:"en-US";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"5.6.28";s:6:"xdebug";b:1;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:53:{s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:63:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-bootstrap";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:59:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-faker";}}s:21:"jacmoe/yii2-tale-jade";a:3:{s:4:"name";s:21:"jacmoe/yii2-tale-jade";s:7:"version";s:7:"1.5.0.0";s:5:"alias";a:1:{s:16:"@jacmoe/talejade";s:66:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/jacmoe/yii2-tale-jade/src";}}s:20:"jacmoe/yii2-gii-jade";a:3:{s:4:"name";s:20:"jacmoe/yii2-gii-jade";s:7:"version";s:7:"0.2.0.0";s:5:"alias";a:1:{s:15:"@jacmoe/giijade";s:61:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/jacmoe/yii2-gii-jade";}}s:21:"deesoft/yii2-adminlte";a:3:{s:4:"name";s:21:"deesoft/yii2-adminlte";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:13:"@dee/adminlte";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/deesoft/yii2-adminlte";}}s:20:"deesoft/yii2-angular";a:4:{s:4:"name";s:20:"deesoft/yii2-angular";s:7:"version";s:7:"1.3.0.0";s:5:"alias";a:1:{s:12:"@dee/angular";s:61:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/deesoft/yii2-angular";}s:9:"bootstrap";s:21:"dee\angular\Bootstrap";}s:23:"kartik-v/yii2-popover-x";a:3:{s:4:"name";s:23:"kartik-v/yii2-popover-x";s:7:"version";s:7:"1.3.3.0";s:5:"alias";a:1:{s:15:"@kartik/popover";s:64:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-popover-x";}}s:30:"kartik-v/yii2-widget-typeahead";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-typeahead";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:17:"@kartik/typeahead";s:71:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-typeahead";}}s:30:"kartik-v/yii2-widget-touchspin";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-touchspin";s:7:"version";s:7:"1.2.1.0";s:5:"alias";a:1:{s:17:"@kartik/touchspin";s:71:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-touchspin";}}s:32:"kartik-v/yii2-widget-switchinput";a:3:{s:4:"name";s:32:"kartik-v/yii2-widget-switchinput";s:7:"version";s:7:"1.3.1.0";s:5:"alias";a:1:{s:19:"@kartik/switchinput";s:73:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-switchinput";}}s:28:"kartik-v/yii2-widget-spinner";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-spinner";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:15:"@kartik/spinner";s:69:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-spinner";}}s:28:"kartik-v/yii2-widget-sidenav";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-sidenav";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:15:"@kartik/sidenav";s:69:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-sidenav";}}s:27:"kartik-v/yii2-widget-rating";a:3:{s:4:"name";s:27:"kartik-v/yii2-widget-rating";s:7:"version";s:7:"1.0.2.0";s:5:"alias";a:1:{s:14:"@kartik/rating";s:68:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-rating";}}s:31:"kartik-v/yii2-widget-rangeinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-rangeinput";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:13:"@kartik/range";s:72:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-rangeinput";}}s:26:"kartik-v/yii2-widget-growl";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-growl";s:7:"version";s:7:"1.1.1.0";s:5:"alias";a:1:{s:13:"@kartik/growl";s:67:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-growl";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:7:"1.0.4.0";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:69:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-depdrop";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:7:"1.4.2.0";s:5:"alias";a:1:{s:12:"@kartik/date";s:72:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-datepicker";}}s:31:"kartik-v/yii2-widget-colorinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-colorinput";s:7:"version";s:7:"1.0.3.0";s:5:"alias";a:1:{s:13:"@kartik/color";s:72:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-colorinput";}}s:26:"kartik-v/yii2-widget-alert";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-alert";s:7:"version";s:7:"1.1.0.0";s:5:"alias";a:1:{s:13:"@kartik/alert";s:67:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-alert";}}s:26:"kartik-v/yii2-widget-affix";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-affix";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:13:"@kartik/affix";s:67:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-affix";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:7:"1.4.8.0";s:5:"alias";a:1:{s:12:"@kartik/form";s:72:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-activeform";}}s:21:"kartik-v/yii2-widgets";a:3:{s:4:"name";s:21:"kartik-v/yii2-widgets";s:7:"version";s:7:"3.4.0.0";s:5:"alias";a:1:{s:15:"@kartik/widgets";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widgets";}}s:26:"moonlandsoft/yii2-phpexcel";a:3:{s:4:"name";s:26:"moonlandsoft/yii2-phpexcel";s:7:"version";s:7:"1.1.0.0";s:5:"alias";a:1:{s:18:"@moonland/phpexcel";s:67:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/moonlandsoft/yii2-phpexcel";}}s:20:"kartik-v/yii2-dialog";a:3:{s:4:"name";s:20:"kartik-v/yii2-dialog";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:14:"@kartik/dialog";s:61:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-dialog";}}s:23:"callmez/yii2-wechat-sdk";a:3:{s:4:"name";s:23:"callmez/yii2-wechat-sdk";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:19:"@callmez/wechat/sdk";s:64:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/callmez/yii2-wechat-sdk";}}s:25:"kartik-v/yii2-field-range";a:3:{s:4:"name";s:25:"kartik-v/yii2-field-range";s:7:"version";s:7:"1.3.1.0";s:5:"alias";a:1:{s:13:"@kartik/field";s:66:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-field-range";}}s:22:"kartik-v/yii2-sortable";a:3:{s:4:"name";s:22:"kartik-v/yii2-sortable";s:7:"version";s:7:"1.2.0.0";s:5:"alias";a:1:{s:16:"@kartik/sortable";s:63:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-sortable";}}s:21:"kartik-v/yii2-helpers";a:3:{s:4:"name";s:21:"kartik-v/yii2-helpers";s:7:"version";s:7:"1.3.6.0";s:5:"alias";a:1:{s:15:"@kartik/helpers";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-helpers";}}s:25:"kartik-v/yii2-detail-view";a:3:{s:4:"name";s:25:"kartik-v/yii2-detail-view";s:7:"version";s:7:"1.7.5.0";s:5:"alias";a:1:{s:14:"@kartik/detail";s:66:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-detail-view";}}s:24:"kartik-v/yii2-checkbox-x";a:3:{s:4:"name";s:24:"kartik-v/yii2-checkbox-x";s:7:"version";s:7:"1.0.3.0";s:5:"alias";a:1:{s:16:"@kartik/checkbox";s:65:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-checkbox-x";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:65:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-swiftmailer";}}s:23:"yiisoft/yii2-httpclient";a:3:{s:4:"name";s:23:"yiisoft/yii2-httpclient";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:15:"@yii/httpclient";s:64:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-httpclient";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"1.8.8.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:66:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-krajee-base";}}s:18:"kartik-v/yii2-grid";a:3:{s:4:"name";s:18:"kartik-v/yii2-grid";s:7:"version";s:7:"3.1.5.0";s:5:"alias";a:1:{s:12:"@kartik/grid";s:59:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-grid";}}s:18:"kartik-v/yii2-mpdf";a:3:{s:4:"name";s:18:"kartik-v/yii2-mpdf";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:12:"@kartik/mpdf";s:59:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-mpdf";}}s:22:"kartik-v/yii2-editable";a:3:{s:4:"name";s:22:"kartik-v/yii2-editable";s:7:"version";s:7:"1.7.6.0";s:5:"alias";a:1:{s:16:"@kartik/editable";s:63:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-editable";}}s:25:"kartik-v/yii2-datecontrol";a:3:{s:4:"name";s:25:"kartik-v/yii2-datecontrol";s:7:"version";s:7:"1.9.6.0";s:5:"alias";a:1:{s:19:"@kartik/datecontrol";s:66:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-datecontrol";}}s:22:"kartik-v/yii2-dynagrid";a:3:{s:4:"name";s:22:"kartik-v/yii2-dynagrid";s:7:"version";s:7:"1.4.5.0";s:5:"alias";a:1:{s:16:"@kartik/dynagrid";s:63:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-dynagrid";}}s:20:"kartik-v/yii2-export";a:3:{s:4:"name";s:20:"kartik-v/yii2-export";s:7:"version";s:7:"1.2.7.0";s:5:"alias";a:1:{s:14:"@kartik/export";s:61:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-export";}}s:20:"yiisoft/yii2-imagine";a:3:{s:4:"name";s:20:"yiisoft/yii2-imagine";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:12:"@yii/imagine";s:61:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-imagine";}}s:30:"mongosoft/yii2-upload-behavior";a:3:{s:4:"name";s:30:"mongosoft/yii2-upload-behavior";s:7:"version";s:7:"0.1.7.0";s:5:"alias";a:1:{s:15:"@mongosoft/file";s:71:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/mongosoft/yii2-upload-behavior";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.9.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:59:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-debug";}}s:24:"rmrevin/yii2-fontawesome";a:3:{s:4:"name";s:24:"rmrevin/yii2-fontawesome";s:7:"version";s:8:"2.17.1.0";s:5:"alias";a:1:{s:24:"@rmrevin/yii/fontawesome";s:65:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/rmrevin/yii2-fontawesome";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:7:"1.4.4.0";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:76:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-datetimepicker";}}s:30:"kartik-v/yii2-widget-fileinput";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-fileinput";s:7:"version";s:7:"1.0.6.0";s:5:"alias";a:1:{s:12:"@kartik/file";s:71:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-fileinput";}}s:31:"kartik-v/yii2-widget-timepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-timepicker";s:7:"version";s:7:"1.0.3.0";s:5:"alias";a:1:{s:12:"@kartik/time";s:72:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-timepicker";}}s:18:"yiisoft/yii2-redis";a:3:{s:4:"name";s:18:"yiisoft/yii2-redis";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:10:"@yii/redis";s:59:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-redis";}}s:24:"kartik-v/yii2-date-range";a:3:{s:4:"name";s:24:"kartik-v/yii2-date-range";s:7:"version";s:7:"1.6.8.0";s:5:"alias";a:1:{s:17:"@kartik/daterange";s:65:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-date-range";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:7:"2.1.0.0";s:5:"alias";a:1:{s:15:"@kartik/select2";s:69:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-widget-select2";}}s:18:"yiisoft/yii2-queue";a:3:{s:4:"name";s:18:"yiisoft/yii2-queue";s:7:"version";s:7:"2.0.0.0";s:5:"alias";a:8:{s:10:"@yii/queue";s:63:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-queue/src";s:15:"@yii/queue/amqp";s:76:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-queue/src/drivers/amqp";s:20:"@yii/queue/beanstalk";s:81:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-queue/src/drivers/beanstalk";s:13:"@yii/queue/db";s:74:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-queue/src/drivers/db";s:15:"@yii/queue/file";s:76:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-queue/src/drivers/file";s:18:"@yii/queue/gearman";s:79:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-queue/src/drivers/gearman";s:16:"@yii/queue/redis";s:77:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-queue/src/drivers/redis";s:15:"@yii/queue/sync";s:76:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/yiisoft/yii2-queue/src/drivers/sync";}}s:24:"kartik-v/yii2-dropdown-x";a:3:{s:4:"name";s:24:"kartik-v/yii2-dropdown-x";s:7:"version";s:7:"1.2.0.0";s:5:"alias";a:1:{s:16:"@kartik/dropdown";s:65:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-dropdown-x";}}s:19:"kartik-v/yii2-nav-x";a:3:{s:4:"name";s:19:"kartik-v/yii2-nav-x";s:7:"version";s:7:"1.2.1.0";s:5:"alias";a:1:{s:11:"@kartik/nav";s:60:"D:\mp\xampp\htdocs\xiaomei360.com\vendor/kartik-v/yii2-nav-x";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:12:{s:4:"host";s:18:"api.xiaomei360.com";s:10:"connection";s:10:"keep-alive";s:14:"content-length";s:3:"227";s:6:"accept";s:3:"*/*";s:6:"origin";s:16:"http://apizza.cc";s:13:"authorization";s:50:"Basic WXFreGZqbC0tNFN0QU9VclNOVnlZcGlHZkhUVTBlTmQ6";s:10:"user-agent";s:108:"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36";s:12:"content-type";s:16:"application/json";s:7:"referer";s:69:"http://apizza.cc/console/project/ef3cd4fbb9b83d6995e89eabd0387291/dev";s:15:"accept-encoding";s:13:"gzip, deflate";s:15:"accept-language";s:14:"zh-CN,zh;q=0.9";s:6:"cookie";s:136:"Hm_lvt_3984549160280a2786b016453d021525=1510383121,1510389260,1510393236,1510535648; Hm_lpvt_3984549160280a2786b016453d021525=1510560884";}s:15:"responseHeaders";a:2:{s:12:"X-Powered-By";s:10:"PHP/5.6.28";s:12:"Content-Type";s:31:"application/json; charset=UTF-8";}s:5:"route";s:15:"v1/address/edit";s:6:"action";s:58:"api\modules\v1\controllers\AddressController::actionEdit()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:3:{s:12:"Content Type";s:16:"application/json";s:3:"Raw";s:227:"{
+    "data": {
+        "address_id": 1888,
+        "consignee": "收货人姓名",
+        "province": 1,
+        "city": 12,
+        "district": 3,
+        "mobile": "13510601718",
+        "address": "详细地址111"
+    }
+}";s:17:"Decoded to Params";a:1:{s:4:"data";a:7:{s:10:"address_id";i:1888;s:9:"consignee";s:15:"收货人姓名";s:8:"province";i:1;s:4:"city";i:12;s:8:"district";i:3;s:6:"mobile";s:11:"13510601718";s:7:"address";s:15:"详细地址111";}}}s:6:"SERVER";a:55:{s:16:"REDIRECT_MIBDIRS";s:27:"D:/mp/xampp/php/extras/mibs";s:19:"REDIRECT_MYSQL_HOME";s:16:"\xampp\mysql\bin";s:21:"REDIRECT_OPENSSL_CONF";s:34:"D:/mp/xampp/apache/bin/openssl.cnf";s:29:"REDIRECT_PHP_PEAR_SYSCONF_DIR";s:10:"\xampp\php";s:14:"REDIRECT_PHPRC";s:10:"\xampp\php";s:12:"REDIRECT_TMP";s:10:"\xampp\tmp";s:15:"REDIRECT_STATUS";s:3:"200";s:7:"MIBDIRS";s:27:"D:/mp/xampp/php/extras/mibs";s:10:"MYSQL_HOME";s:16:"\xampp\mysql\bin";s:12:"OPENSSL_CONF";s:34:"D:/mp/xampp/apache/bin/openssl.cnf";s:20:"PHP_PEAR_SYSCONF_DIR";s:10:"\xampp\php";s:5:"PHPRC";s:10:"\xampp\php";s:3:"TMP";s:10:"\xampp\tmp";s:9:"HTTP_HOST";s:18:"api.xiaomei360.com";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:14:"CONTENT_LENGTH";s:3:"227";s:11:"HTTP_ACCEPT";s:3:"*/*";s:11:"HTTP_ORIGIN";s:16:"http://apizza.cc";s:15:"HTTP_USER_AGENT";s:108:"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36";s:12:"CONTENT_TYPE";s:16:"application/json";s:12:"HTTP_REFERER";s:69:"http://apizza.cc/console/project/ef3cd4fbb9b83d6995e89eabd0387291/dev";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:20:"HTTP_ACCEPT_LANGUAGE";s:14:"zh-CN,zh;q=0.9";s:11:"HTTP_COOKIE";s:136:"Hm_lvt_3984549160280a2786b016453d021525=1510383121,1510389260,1510393236,1510535648; Hm_lpvt_3984549160280a2786b016453d021525=1510560884";s:4:"PATH";s:240:"C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;D:\mp\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Users\Administrator\AppData\Roaming\Composer\vendor\bin";s:10:"SystemRoot";s:10:"C:\Windows";s:7:"COMSPEC";s:27:"C:\Windows\system32\cmd.exe";s:7:"PATHEXT";s:53:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC";s:6:"WINDIR";s:10:"C:\Windows";s:16:"SERVER_SIGNATURE";s:104:"<address>Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.28 Server at api.xiaomei360.com Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:47:"Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.28";s:11:"SERVER_NAME";s:18:"api.xiaomei360.com";s:11:"SERVER_ADDR";s:9:"127.0.0.1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:9:"127.0.0.1";s:13:"DOCUMENT_ROOT";s:41:"D:/mp/xampp/htdocs/xiaomei360.com/api/web";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:41:"D:/mp/xampp/htdocs/xiaomei360.com/api/web";s:12:"SERVER_ADMIN";s:20:"postmaster@localhost";s:15:"SCRIPT_FILENAME";s:51:"D:/mp/xampp/htdocs/xiaomei360.com/api/web/index.php";s:11:"REMOTE_PORT";s:5:"49339";s:12:"REDIRECT_URL";s:16:"/v1/address/edit";s:21:"REDIRECT_QUERY_STRING";s:43:"r=/v1/address/edit&suppress_response_code=1";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:4:"POST";s:12:"QUERY_STRING";s:43:"r=/v1/address/edit&suppress_response_code=1";s:11:"REQUEST_URI";s:41:"/v1/address/edit?suppress_response_code=1";s:11:"SCRIPT_NAME";s:10:"/index.php";s:8:"PHP_SELF";s:10:"/index.php";s:13:"PHP_AUTH_USER";s:32:"Yqkxfjl--4StAOUrSNVyYpiGfHTU0eNd";s:11:"PHP_AUTH_PW";s:0:"";s:18:"REQUEST_TIME_FLOAT";d:1510564355.253;s:12:"REQUEST_TIME";i:1510564355;}s:3:"GET";a:2:{s:1:"r";s:16:"/v1/address/edit";s:22:"suppress_response_code";s:1:"1";}s:4:"POST";a:0:{}s:6:"COOKIE";a:2:{s:39:"Hm_lvt_3984549160280a2786b016453d021525";s:43:"1510383121,1510389260,1510393236,1510535648";s:40:"Hm_lpvt_3984549160280a2786b016453d021525";s:10:"1510560884";}s:5:"FILES";a:0:{}s:7:"SESSION";a:0:{}}s:3:"log";a:1:{s:8:"messages";a:21:{i:0;a:6:{i:0;s:49:"Bootstrap with dee\angular\Bootstrap::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1510564355.289254;i:4;a:0:{}i:5;i:2533224;}i:1;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1510564355.2942541;i:4;a:0:{}i:5;i:2666880;}i:2;a:6:{i:0;s:49:"Bootstrap with yii\queue\redis\Queue::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1510564355.304255;i:4;a:0:{}i:5;i:2934048;}i:3;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1510564355.304255;i:4;a:0:{}i:5;i:2934880;}i:4;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1510564355.304255;i:4;a:0:{}i:5;i:2936672;}i:5;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1510564355.317255;i:4;a:0:{}i:5;i:3412736;}i:6;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1510564355.3282559;i:4;a:0:{}i:5;i:4429784;}i:7;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1510564355.3292561;i:4;a:0:{}i:5;i:4471376;}i:28;a:6:{i:0;s:34:"Route requested: 'v1/address/edit'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1510564355.336257;i:4;a:0:{}i:5;i:4847088;}i:29;a:6:{i:0;s:18:"Loading module: v1";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1510564355.336257;i:4;a:0:{}i:5;i:4850536;}i:30;a:6:{i:0;s:29:"Route to run: v1/address/edit";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1510564355.3472569;i:4;a:0:{}i:5;i:5436888;}i:31;a:6:{i:0;s:58:"Opening DB connection: mysql:host=localhost;dbname=xiaomei";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1510564355.377259;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7473464;}i:34;a:6:{i:0;s:79:"SELECT * FROM `o_users` WHERE `access_token`='Yqkxfjl--4StAOUrSNVyYpiGfHTU0eNd'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.3882599;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7482864;}i:37;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `o_users`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.4712639;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7571096;}i:40;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_users' AND kcu.table_name = 'o_users'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.505266;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7642048;}i:43;a:6:{i:0;s:58:"User '3079' logged in from 127.0.0.1. Session not enabled.";i:1;i:4;i:2;s:19:"yii\web\User::login";i:3;d:1510564355.508266;i:4;a:0:{}i:5;i:7640768;}i:44;a:6:{i:0;s:65:"Rate limit skipped: "user" does not implement RateLimitInterface.";i:1;i:4;i:2;s:37:"yii\filters\RateLimiter::beforeAction";i:3;d:1510564355.508266;i:4;a:0:{}i:5;i:7638240;}i:45;a:6:{i:0;s:74:"Running action: api\modules\v1\controllers\AddressController::actionEdit()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1510564355.508266;i:4;a:0:{}i:5;i:7636280;}i:46;a:6:{i:0;s:79:"SELECT * FROM `o_user_address` WHERE (`user_id`='3079') AND (`address_id`=1888)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.513267;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\AddressController.php";s:4:"line";i:163;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:7809448;}i:49;a:6:{i:0;s:237:"您只能编辑自己的收获地址 $userModel->user_id = 3079 $params = {"address_id":1888,"consignee":"\u6536\u8d27\u4eba\u59d3\u540d","province":1,"city":12,"district":3,"mobile":"13510601718","address":"\u8be6\u7ec6\u5730\u5740111"}";i:1;i:1;i:2;s:11:"application";i:3;d:1510564355.514267;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\AddressController.php";s:4:"line";i:188;s:8:"function";s:5:"error";s:5:"class";s:11:"yii\BaseYii";s:4:"type";s:2:"::";}}i:5;i:7807128;}i:50;a:6:{i:0;s:1030:"exception 'yii\web\BadRequestHttpException' with message '您只能编辑自己的收获地址' in D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\AddressController.php:189
+Stack trace:
+#0 [internal function]: api\modules\v1\controllers\AddressController->actionEdit()
+#1 D:\mp\xampp\htdocs\xiaomei360.com\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#2 D:\mp\xampp\htdocs\xiaomei360.com\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#3 D:\mp\xampp\htdocs\xiaomei360.com\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('edit', Array)
+#4 D:\mp\xampp\htdocs\xiaomei360.com\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('v1/address/edit', Array)
+#5 D:\mp\xampp\htdocs\xiaomei360.com\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 D:\mp\xampp\htdocs\xiaomei360.com\api\web\index.php(36): yii\base\Application->run()
+#7 {main}";i:1;i:1;i:2;s:25:"yii\web\HttpException:400";i:3;d:1510564355.5162671;i:4;a:0:{}i:5;i:7839312;}}}s:9:"profiling";a:3:{s:6:"memory";i:8394960;s:4:"time";d:0.27101492881774902;s:8:"messages";a:10:{i:32;a:6:{i:0;s:58:"Opening DB connection: mysql:host=localhost;dbname=xiaomei";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1510564355.377259;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7475728;}i:33;a:6:{i:0;s:58:"Opening DB connection: mysql:host=localhost;dbname=xiaomei";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1510564355.3882599;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7485168;}i:35;a:6:{i:0;s:79:"SELECT * FROM `o_users` WHERE `access_token`='Yqkxfjl--4StAOUrSNVyYpiGfHTU0eNd'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.3882599;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7485280;}i:36;a:6:{i:0;s:79:"SELECT * FROM `o_users` WHERE `access_token`='Yqkxfjl--4StAOUrSNVyYpiGfHTU0eNd'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.466264;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7536912;}i:38;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `o_users`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.4712639;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7573056;}i:39;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `o_users`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.4962659;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7651744;}i:41;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_users' AND kcu.table_name = 'o_users'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.505266;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7645056;}i:42;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_users' AND kcu.table_name = 'o_users'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.5062661;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7647576;}i:47;a:6:{i:0;s:79:"SELECT * FROM `o_user_address` WHERE (`user_id`='3079') AND (`address_id`=1888)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.513267;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\AddressController.php";s:4:"line";i:163;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:7810632;}i:48;a:6:{i:0;s:79:"SELECT * FROM `o_user_address` WHERE (`user_id`='3079') AND (`address_id`=1888)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.514267;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\AddressController.php";s:4:"line";i:163;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:7812928;}}}s:2:"db";a:1:{s:8:"messages";a:8:{i:35;a:6:{i:0;s:79:"SELECT * FROM `o_users` WHERE `access_token`='Yqkxfjl--4StAOUrSNVyYpiGfHTU0eNd'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.3882599;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7485280;}i:36;a:6:{i:0;s:79:"SELECT * FROM `o_users` WHERE `access_token`='Yqkxfjl--4StAOUrSNVyYpiGfHTU0eNd'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.466264;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7536912;}i:38;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `o_users`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.4712639;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7573056;}i:39;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `o_users`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.4962659;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7651744;}i:41;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_users' AND kcu.table_name = 'o_users'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.505266;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7645056;}i:42;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'o_users' AND kcu.table_name = 'o_users'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.5062661;i:4;a:2:{i:0;a:5:{s:4:"file";s:62:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\UsersQuery.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:57:"D:\mp\xampp\htdocs\xiaomei360.com\common\models\Users.php";s:4:"line";i:418;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7647576;}i:47;a:6:{i:0;s:79:"SELECT * FROM `o_user_address` WHERE (`user_id`='3079') AND (`address_id`=1888)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.513267;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\AddressController.php";s:4:"line";i:163;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:7810632;}i:48;a:6:{i:0;s:79:"SELECT * FROM `o_user_address` WHERE (`user_id`='3079') AND (`address_id`=1888)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1510564355.514267;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"D:\mp\xampp\htdocs\xiaomei360.com\api\modules\v1\controllers\AddressController.php";s:4:"line";i:163;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:7812928;}}}s:6:"assets";a:0:{}s:4:"mail";a:0:{}s:8:"timeline";a:3:{s:5:"start";d:1510564355.2682531;s:3:"end";d:1510564355.5402679;s:6:"memory";i:8394960;}s:4:"user";a:4:{s:8:"identity";a:65:{s:7:"user_id";s:4:"3079";s:5:"email";s:0:"";s:9:"user_name";s:11:"shiningxiao";s:8:"password";s:32:"1a82f17ce9d446e4bb6a59a33fa3de82";s:8:"question";s:0:"";s:6:"answer";s:0:"";s:3:"sex";i:0;s:8:"birthday";s:10:"2017-04-20";s:10:"user_money";s:4:"0.00";s:12:"frozen_money";s:4:"0.00";s:10:"pay_points";s:1:"0";s:11:"rank_points";s:1:"0";s:10:"address_id";s:3:"867";s:7:"zone_id";N;s:8:"reg_time";s:10:"1486075359";s:10:"last_login";s:10:"1508973516";s:9:"last_time";s:19:"2017-11-08 16:59:25";s:7:"last_ip";s:14:"101.232.75.167";s:11:"visit_count";i:65535;s:9:"user_rank";i:3;s:10:"is_special";i:0;s:7:"ec_salt";s:4:"2607";s:4:"salt";s:1:"0";s:9:"parent_id";i:0;s:4:"flag";i:0;s:5:"alias";s:0:"";s:3:"msn";s:0:"";s:2:"qq";s:9:"185395804";s:12:"office_phone";s:0:"";s:10:"home_phone";s:0:"";s:12:"mobile_phone";s:11:"13510601717";s:12:"company_name";s:12:"小美诚品";s:12:"is_validated";i:0;s:11:"credit_line";s:4:"0.00";s:15:"passwd_question";N;s:13:"passwd_answer";N;s:10:"headimgurl";s:117:"http://wx.qlogo.cn/mmopen/ajNVdqHZLLADpzOqtIzzvibNib6wncPQMN6zXm7JXReyeDicu30gAlrgTt7gudHAAxGfpGDXDhxW8EB8ugHeJHevw/0";s:6:"openid";s:28:"oP0phwkDqY6iIpwFuHT4UkycW2mQ";s:10:"qq_open_id";s:0:"";s:7:"aite_id";N;s:7:"unionid";s:28:"obKWbwQbSXucV20Gq-AQQQO6F7DI";s:12:"wx_pc_openid";s:28:"o3f-IwCI-vmUYV1i4-8szc1dELcQ";s:13:"licence_image";s:0:"";s:16:"servicer_user_id";s:1:"0";s:17:"servicer_super_id";s:1:"0";s:13:"brand_id_list";s:1:"0";s:8:"auth_key";s:0:"";s:12:"access_token";s:32:"Yqkxfjl--4StAOUrSNVyYpiGfHTU0eNd";s:16:"servicer_info_id";s:1:"0";s:12:"bank_info_id";i:0;s:14:"brand_admin_id";i:0;s:8:"nickname";s:11:"shiningxiao";s:10:"is_checked";i:2;s:12:"checked_note";s:18915:"shiningxiao(13510601717)(2017-11-08 16:59:25):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-11-06 14:44:43):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-26 11:36:48):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-25 15:47:27):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-25 10:00:50):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-24 23:00:06):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-24 22:16:49):
+
+shiningxiao(13510601717)(2017-10-24 22:07:24):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-24 14:56:50):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-24 13:59:21):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-24 12:04:01):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-24 10:33:06):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-20 18:10:12):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-20 15:49:11):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-20 13:55:45):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-20 10:24:21):
+
+shiningxiao(13510601717)(2017-10-19 10:32:27):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-14 16:25:44):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-14 16:04:41):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-14 16:04:41):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-14 15:07:42):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-14 11:49:20):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-14 10:46:18):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-14 08:49:05):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-13 14:55:23):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-13 08:43:04):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-12 18:45:05):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-12 16:32:09):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-12 16:21:06):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-12 13:54:10):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-12 11:27:55):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-11 21:53:47):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-11 17:55:21):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-11 15:20:37):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-11 14:46:55):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-11 14:05:40):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-11 11:47:31):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-11 10:42:51):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-11 10:13:37):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-11 07:44:25):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-10 15:50:46):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-10 14:52:36):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-10 10:38:20):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-09 20:51:41):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-09 15:22:21):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-09 15:13:34):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-09 14:58:20):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-09 14:00:52):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-09 12:02:00):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-09 11:19:30):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-09 11:07:54):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-02 20:25:33):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-10-01 14:54:38):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-30 18:02:08):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-30 11:25:51):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-30 10:57:43):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-30 10:26:20):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-29 18:17:27):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-29 16:39:28):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-29 14:48:08):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-29 11:35:52):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-28 16:42:43):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-28 15:50:38):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-27 15:58:08):
+
+shiningxiao(13510601717)(2017-09-27 09:50:10):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-27 09:50:07):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-26 14:41:22):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-25 16:55:23):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-23 08:24:53):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-22 10:10:49):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-21 15:49:47):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-21 15:49:47):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-20 10:17:03):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-18 15:42:04):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-18 15:16:06):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-18 15:15:04):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-18 14:44:18):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-18 10:31:58):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-15 10:54:05):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-14 15:57:07):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-14 15:32:19):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-14 15:29:01):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-14 15:29:01):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-14 15:23:56):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-14 15:22:08):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-14 15:22:06):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-14 15:20:41):
+
+shiningxiao(13510601717)(2017-09-14 14:49:26):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-14 14:22:47):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-11 17:35:58):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-11 16:34:45):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-11 11:31:59):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-09 20:57:55):
+
+cary(13636383223)(2017-09-07 13:07:00):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-07 10:03:48):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-06 22:17:43):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-06 15:02:12):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-02 12:27:12):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-09-01 10:24:08):
+
+shiningxiao(13510601717)(2017-08-30 14:52:17):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-30 14:50:58):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-30 11:11:58):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-30 11:11:58):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-30 10:31:41):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-30 09:43:22):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-29 14:58:43):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-29 14:57:01):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-29 10:59:41):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-28 17:14:14):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-28 17:09:59):
+
+shiningxiao(13510601717)(2017-08-28 17:06:18):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-28 15:44:30):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-28 15:40:54):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-27 20:51:06):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-26 20:35:19):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-26 20:04:00):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-26 20:03:40):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-26 20:03:30):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-26 20:03:25):
+
+shiningxiao(13510601717)(2017-08-26 20:02:03):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-25 10:54:58):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-25 10:54:57):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-25 10:35:24):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-25 09:50:22):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-24 18:05:57):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-23 23:13:21):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-23 20:53:12):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-23 11:54:44):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-22 14:52:12):
+
+shiningxiao(13510601717)(2017-08-22 10:35:02):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-21 18:21:16):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-21 17:10:12):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-21 14:30:37):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-20 12:27:46):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-19 09:26:59):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-19 09:26:59):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-19 09:26:59):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-19 08:32:36):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-18 18:21:11):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-18 16:56:04):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-18 12:57:23):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-18 12:18:35):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-18 11:45:39):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-18 11:45:39):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-18 10:14:34):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-17 17:15:33):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-17 09:28:13):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-16 19:30:51):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-16 19:30:51):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-16 19:12:36):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-16 16:57:18):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-16 13:57:59):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-15 16:33:19):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-15 16:04:55):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-15 15:23:44):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-15 15:23:44):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-15 14:56:15):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-15 12:25:59):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-15 11:15:53):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-15 09:27:46):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-14 21:39:38):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-14 17:50:56):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-14 15:29:49):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-14 14:10:37):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-12 23:24:59):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-11 19:27:24):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-11 10:53:14):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-09 11:16:31):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-07 15:27:57):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-07 11:02:54):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-07 11:02:54):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-07 10:45:20):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-07 10:42:24):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-05 10:18:56):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-04 09:22:22):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-03 22:23:33):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-03 21:49:24):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-03 20:16:44):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-03 14:59:17):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-02 21:39:43):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-02 09:00:08):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-01 18:06:03):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-01 18:01:17):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-01 17:59:17):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-01 17:49:27):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-01 14:24:09):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-08-01 10:22:58):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-31 16:27:43):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-29 22:33:03):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-29 22:12:25):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-28 14:12:39):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-28 09:06:20):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-27 22:25:58):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-27 16:53:38):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-27 16:36:10):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-27 16:29:51):
+
+shiningxiao(13510601717)(2017-07-26 10:08:39):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-21 19:57:46):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-21 19:29:24):
+
+shiningxiao(13510601717)(2017-07-19 09:06:05):
+
+shiningxiao(13510601717)(2017-07-18 14:06:25):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-18 14:02:28):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-18 12:02:59):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-15 11:22:52):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-14 15:45:18):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-14 11:37:16):
+
+shiningxiao(13510601717)(2017-07-14 10:26:36):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-14 10:08:12):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-13 23:02:14):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-13 20:06:13):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-13 19:25:30):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-12 20:27:53):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-11 16:21:32):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-11 15:54:39):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-11 10:27:36):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-10 16:20:04):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-10 11:39:25):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-09 14:02:16):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-08 15:43:03):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-07 20:32:04):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-07 18:35:25):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-06 16:13:32):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-06 13:58:33):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-06 11:59:17):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-06 10:44:18):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-05 16:48:21):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-04 16:01:25):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-03 09:39:33):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-03 09:35:28):
+
+未知用户(可能是批量修改的脚本修改了状态)(2017-07-01 20:04:53):
+
+shiningxiao(13510601717)(2017-07-01 16:34:54):测试一下记录日志的功能
+shiningxiao(13510601717)(2017-07-01 16:34:39):5
+shiningxiao(13510601717)(2017-07-01 16:34:29):4
+(2017-07-01 16:27:03)shiningxiao(13510601717):3
+(2017-07-01 16:18:10)shiningxiao(13510601717):2
+(2017-07-01 16:17:58)shiningxiao(13510601717):1
+";s:9:"user_type";i:1;s:13:"shopfront_pic";s:49:"data/attached/member_apply/3079_shopfront_pic.png";s:15:"biz_license_pic";s:51:"data/attached/member_apply/3079_biz_license_pic.png";s:7:"channel";s:1:"4";s:8:"province";i:2136;s:4:"city";i:2163;s:13:"token_expired";s:19:"2017-11-08 16:59:25";s:11:"int_balance";i:1046;s:14:"divide_percent";i:0;s:15:"user_check_note";s:1:"0";s:12:"recommend_id";s:1:"0";}s:10:"attributes";a:65:{i:0;s:7:"user_id";i:1;s:5:"email";i:2;s:9:"user_name";i:3;s:8:"password";i:4;s:8:"question";i:5;s:6:"answer";i:6;s:3:"sex";i:7;s:8:"birthday";i:8;s:10:"user_money";i:9;s:12:"frozen_money";i:10;s:10:"pay_points";i:11;s:11:"rank_points";i:12;s:10:"address_id";i:13;s:7:"zone_id";i:14;s:8:"reg_time";i:15;s:10:"last_login";i:16;s:9:"last_time";i:17;s:7:"last_ip";i:18;s:11:"visit_count";i:19;s:9:"user_rank";i:20;s:10:"is_special";i:21;s:7:"ec_salt";i:22;s:4:"salt";i:23;s:9:"parent_id";i:24;s:4:"flag";i:25;s:5:"alias";i:26;s:3:"msn";i:27;s:2:"qq";i:28;s:12:"office_phone";i:29;s:10:"home_phone";i:30;s:12:"mobile_phone";i:31;s:12:"company_name";i:32;s:12:"is_validated";i:33;s:11:"credit_line";i:34;s:15:"passwd_question";i:35;s:13:"passwd_answer";i:36;s:10:"headimgurl";i:37;s:6:"openid";i:38;s:10:"qq_open_id";i:39;s:7:"aite_id";i:40;s:7:"unionid";i:41;s:12:"wx_pc_openid";i:42;s:13:"licence_image";i:43;s:16:"servicer_user_id";i:44;s:17:"servicer_super_id";i:45;s:13:"brand_id_list";i:46;s:8:"auth_key";i:47;s:12:"access_token";i:48;s:16:"servicer_info_id";i:49;s:12:"bank_info_id";i:50;s:14:"brand_admin_id";i:51;s:8:"nickname";i:52;s:10:"is_checked";i:53;s:12:"checked_note";i:54;s:9:"user_type";i:55;s:13:"shopfront_pic";i:56;s:15:"biz_license_pic";i:57;s:7:"channel";i:58;s:8:"province";i:59;s:4:"city";i:60;s:13:"token_expired";i:61;s:11:"int_balance";i:62;s:14:"divide_percent";i:63;s:15:"user_check_note";i:64;s:12:"recommend_id";}s:13:"rolesProvider";N;s:19:"permissionsProvider";N;}s:6:"router";a:1:{s:8:"messages";a:20:{i:8;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510564355.3342559;i:4;a:0:{}i:5;i:4825888;}i:9;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510564355.3342559;i:4;a:0:{}i:5;i:4827016;}i:10;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510564355.3342559;i:4;a:0:{}i:5;i:4828168;}i:11;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510564355.3342559;i:4;a:0:{}i:5;i:4829280;}i:12;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510564355.3342559;i:4;a:0:{}i:5;i:4830432;}i:13;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510564355.3352571;i:4;a:0:{}i:5;i:4831648;}i:14;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510564355.3352571;i:4;a:0:{}i:5;i:4832792;}i:15;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510564355.3352571;i:4;a:0:{}i:5;i:4833936;}i:16;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510564355.3352571;i:4;a:0:{}i:5;i:4835080;}i:17;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510564355.3352571;i:4;a:0:{}i:5;i:4836288;}i:18;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510564355.3352571;i:4;a:0:{}i:5;i:4837432;}i:19;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510564355.336257;i:4;a:0:{}i:5;i:4838576;}i:20;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510564355.336257;i:4;a:0:{}i:5;i:4839720;}i:21;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510564355.336257;i:4;a:0:{}i:5;i:4840864;}i:22;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510564355.336257;i:4;a:0:{}i:5;i:4842008;}i:23;a:6:{i:0;a:3:{s:4:"rule";s:19:"GET v1/address/list";s:5:"match";b:0;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1510564355.336257;i:4;a:0:{}i:5;i:4844880;}i:24;a:6:{i:0;a:3:{s:4:"rule";s:22:"POST v1/address/create";s:5:"match";b:0;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1510564355.336257;i:4;a:0:{}i:5;i:4846056;}i:25;a:6:{i:0;s:45:"Request parsed with URL rule: v1/address/edit";i:1;i:8;i:2;s:29:"yii\web\UrlRule::parseRequest";i:3;d:1510564355.336257;i:4;a:0:{}i:5;i:4848080;}i:26;a:6:{i:0;a:3:{s:4:"rule";s:20:"POST v1/address/edit";s:5:"match";b:1;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1510564355.336257;i:4;a:0:{}i:5;i:4848248;}i:27;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:1;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1510564355.336257;i:4;a:0:{}i:5;i:4847760;}}}s:7:"summary";a:9:{s:3:"tag";s:13:"5a0962034db30";s:3:"url";s:66:"http://api.xiaomei360.com/v1/address/edit?suppress_response_code=1";s:4:"ajax";i:0;s:6:"method";s:4:"POST";s:2:"ip";s:9:"127.0.0.1";s:4:"time";d:1510564355.253;s:10:"statusCode";i:200;s:8:"sqlCount";i:4;s:9:"mailCount";i:0;}}
